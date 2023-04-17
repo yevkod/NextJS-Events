@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Hello!
+
+You can enjoy my Next.js application right now!
+
+In this project you can find a lot of events by your search, leave a comment and subscribe to updates.
+
+I use Next.js features like Server-Side Rendering, Dynamic Routing, API Routes. 
+And Also I made Responsive design and integrated Firebase.
 
 ## Getting Started
 
