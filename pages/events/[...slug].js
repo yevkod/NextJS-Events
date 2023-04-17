@@ -45,8 +45,8 @@ function FilteredEventsPage () {
         )
     }
 
-    const filteredYear = filterData[0];
-    const filteredMonth = filterData[1];
+    const filteredYear = filterData?.[0];
+    const filteredMonth = filterData?.[1];
 
     const numYear = +filteredYear;
     const numMonth = +filteredMonth;
